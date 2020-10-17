@@ -1,0 +1,14 @@
+D:\SDN\Student_Record_System\Student_Record_System\Student_Record_System\bin\Debug\Student_Record_System.exe.config
+D:\SDN\Student_Record_System\Student_Record_System\Student_Record_System\bin\Debug\Student_Record_System.exe
+D:\SDN\Student_Record_System\Student_Record_System\Student_Record_System\bin\Debug\Student_Record_System.pdb
+D:\SDN\Student_Record_System\Student_Record_System\Student_Record_System\obj\Debug\Student_Record_System.Login_Form.resources
+D:\SDN\Student_Record_System\Student_Record_System\Student_Record_System\obj\Debug\Student_Record_System.Properties.Resources.resources
+D:\SDN\Student_Record_System\Student_Record_System\Student_Record_System\obj\Debug\Student_Record_System.csproj.GenerateResource.Cache
+D:\SDN\Student_Record_System\Student_Record_System\Student_Record_System\obj\Debug\Student_Record_System.exe
+D:\SDN\Student_Record_System\Student_Record_System\Student_Record_System\obj\Debug\Student_Record_System.pdb
+D:\SDN\Student_Record_System\Student_Record_System\Student_Record_System\obj\Debug\Student_Record_System.ManageListForm.resources
+D:\SDN\Student_Record_System\Student_Record_System\Student_Record_System\obj\Debug\Student_Record_System.AddStudentForm.resources
+D:\SDN\Student_Record_System\Student_Record_System\Student_Record_System\obj\Debug\Student_Record_System.Form2.resources
+D:\SDN\Student_Record_System\Student_Record_System\Student_Record_System\obj\Debug\Student_Record_System.StudentList.resources
+D:\SDN\Student_Record_System\Student_Record_System\Student_Record_System\obj\Debug\Student_Record_System.csprojAssemblyReference.cache
+D:\SDN\Student_Record_System\Student_Record_System\Student_Record_System\obj\Debug\Student_Record_System.csproj.CoreCompileInputs.cache
